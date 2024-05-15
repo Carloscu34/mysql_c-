@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccu33\\OneDrive\\Documentos\\Base de datos\\vista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC8FD9B-1B3A-4631-BA41-1A291A7F7D18}|mysql_d\\mysql_d.vcxproj|C:\\Users\\ccu33\\OneDrive\\Documentos\\Base de datos\\vista\\mysql_d\\mysql_d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCC8FD9B-1B3A-4631-BA41-1A291A7F7D18}|mysql_d\\mysql_d.vcxproj|solutionrelative:mysql_d\\mysql_d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC8FD9B-1B3A-4631-BA41-1A291A7F7D18}|mysql_d\\mysql_d.vcxproj|C:\\Users\\ccu33\\OneDrive\\Documentos\\Base de datos\\vista\\mysql_d\\ConexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCC8FD9B-1B3A-4631-BA41-1A291A7F7D18}|mysql_d\\mysql_d.vcxproj|solutionrelative:mysql_d\\ConexionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC8FD9B-1B3A-4631-BA41-1A291A7F7D18}|mysql_d\\mysql_d.vcxproj|C:\\Users\\ccu33\\OneDrive\\Documentos\\Base de datos\\vista\\mysql_d\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCC8FD9B-1B3A-4631-BA41-1A291A7F7D18}|mysql_d\\mysql_d.vcxproj|solutionrelative:mysql_d\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 168,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexionBD.h",
+              "DocumentMoniker": "C:\\Users\\ccu33\\OneDrive\\Documentos\\Base de datos\\vista\\mysql_d\\ConexionBD.h",
+              "RelativeDocumentMoniker": "mysql_d\\ConexionBD.h",
+              "ToolTip": "C:\\Users\\ccu33\\OneDrive\\Documentos\\Base de datos\\vista\\mysql_d\\ConexionBD.h",
+              "RelativeToolTip": "mysql_d\\ConexionBD.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T00:14:08.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.h",
+              "DocumentMoniker": "C:\\Users\\ccu33\\OneDrive\\Documentos\\Base de datos\\vista\\mysql_d\\Cliente.h",
+              "RelativeDocumentMoniker": "mysql_d\\Cliente.h",
+              "ToolTip": "C:\\Users\\ccu33\\OneDrive\\Documentos\\Base de datos\\vista\\mysql_d\\Cliente.h",
+              "RelativeToolTip": "mysql_d\\Cliente.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T00:06:39.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mysql_d.cpp",
+              "DocumentMoniker": "C:\\Users\\ccu33\\OneDrive\\Documentos\\Base de datos\\vista\\mysql_d\\mysql_d.cpp",
+              "RelativeDocumentMoniker": "mysql_d\\mysql_d.cpp",
+              "ToolTip": "C:\\Users\\ccu33\\OneDrive\\Documentos\\Base de datos\\vista\\mysql_d\\mysql_d.cpp",
+              "RelativeToolTip": "mysql_d\\mysql_d.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T01:57:48.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
